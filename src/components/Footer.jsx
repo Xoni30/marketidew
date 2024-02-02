@@ -26,6 +26,7 @@ const Footer = () => (
               {footerlink.links.map((link, index) => (
                 <li
                   key={link.name}
+                  onClick={() => window.open(link.link)}
                   className={`font-poppins font-normal text-[16px] leading-[24px] text-dimWhite hover:text-secondary cursor-pointer ${
                     index !== footerlink.links.length - 1 ? "mb-4" : "mb-0"
                   }`}
