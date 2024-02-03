@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -11,7 +11,7 @@ export const navLinks = [
   },
   {
     id: "product",
-    title: "Product",
+    title: "About",
   },
   {
     id: "clients",
@@ -29,17 +29,17 @@ export const features = [
   },
   {
     id: "feature-2",
-    icon: shield,
-    title: "100% Secured",
+    icon: star,
+    title: "Proprietary CRM",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "Our proprietary CRM will help you keep track of your leads & deals so you don't have to stress about anything.",
   },
   {
     id: "feature-3",
-    icon: send,
-    title: "Balance Transfer",
+    icon: star,
+    title: "Lead Nurturing",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Our long-term email campaigns make sure that no lead is lost, and your dedicated sales rep will call the leads for you so you can focus on what matters.",
   },
 ];
 
