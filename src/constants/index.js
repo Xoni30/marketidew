@@ -25,7 +25,7 @@ export const features = [
     icon: star,
     title: "Facebook Ads",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "We'll manage your facebook ads campaign and help you generate tons of leads.",
   },
   {
     id: "feature-2",
