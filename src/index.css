@@ -16,6 +16,7 @@
 
 * {
   scroll-behavior: smooth;
+  scrollbar-width: none;
 }
 
 .text-gradient {
@@ -40,8 +41,8 @@
     #def9fa -43.27%,
     #bef3f5 -21.24%,
     #9dedf0 12.19%,
-    #7de7eb 29.82%,
-    #5ce1e6 51.94%,
+    #7de7eb 19.82%,
+    #5ce1e6 61.94%,
     #33bbcf 90.29%
   );
 }
@@ -64,6 +65,16 @@
   );
 }
 
+.bg-black-gradient-3 {
+  background: rgb(2,0,36);
+background: linear-gradient(136deg,
+             rgba(2,0,36,1) 0%,
+             rgb(5, 2, 46) 43%,
+             rgb(3, 8, 42) 75%,
+             rgb(2, 0, 45) 97%,
+             rgba(190,188,226,1) 100%);
+  
+}
 .bg-gray-gradient {
   background: linear-gradient(
     153.47deg,
