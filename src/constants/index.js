@@ -30,16 +30,16 @@ export const features = [
   {
     id: "feature-2",
     icon: star,
-    title: "Proprietary CRM",
+    title: "Online Presence Management",
     content:
-      "Our proprietary CRM will help you keep track of your leads & deals so you don't have to stress about anything.",
+      "You won't have to worry about posting on facebook or any other platform anymore, our team will handle all of it for you.",
   },
   {
     id: "feature-3",
     icon: star,
     title: "Lead Nurturing",
     content:
-      "Our long-term email campaigns make sure that no lead is lost, and your dedicated sales rep will call the leads for you so you can focus on what matters.",
+      "Our long-term email campaigns make sure that no lead is lost, so you can focus on what matters.",
   },
 ];
 
@@ -47,32 +47,32 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Tyler Grande",
-    title: "Founder & Leader",
+      "Finally, marketing that converts! Increased offers & happy sellers. You're worth every penny!",
+    name: "Mario Gonzalez",
+    title: "Remax Remodeling",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Tyler Grande",
-    title: "Founder & Leader",
+      "Leads pouring in! Thanks to your targeted campaigns, my open houses are packed. ",
+    name: "Sarah Williams",
+    title: "Vivid Construction",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Nethan Grande",
-    title: "Founder & Leader",
+      "Finally, marketing that speaks to buyers! Listings sold faster, smoother.",
+    name: "Alex Sergio",
+    title: "Home PRO",
     img: people03,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Some dude",
+      "They don't just market, they strategize. Deep market knowledge turns leads into loyal clients. Can't recommend them enough!",
+    name: "Leon Fitzgerald",
     title: "Founder & Leader",
     img: people03,
   },
@@ -115,7 +115,7 @@ export const footerLinks = [
       },
       {
         name: "ANR system",
-        link: "https://anr.marketide.co/",
+        link: "https://marketide.co/",
       },
   
       {
@@ -157,7 +157,7 @@ export const socialMedia = [
   {
     id: "social-media-2",
     icon: facebook,
-    link: "https://www.facebook.com/",
+    link: "https://www.facebook.com/group/remodelerr",
   },
   {
     id: "social-media-3",
