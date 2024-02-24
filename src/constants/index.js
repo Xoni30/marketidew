@@ -107,11 +107,11 @@ export const footerLinks = [
     links: [
       {
         name: "Contact",
-        link: "https://www.marketide.co/contact/",
+        link: "https://marketide.co/#contact/",
       },
       {
         name: "About",
-        link: "https://www.marketide.co/About",
+        link: "https://marketide.co/#about",
       },
       {
         name: "ANR system",
@@ -119,7 +119,7 @@ export const footerLinks = [
       },
   
       {
-        name: "Terms & Services",
+        name: "Terms Of Service",
         link: "https://www.marketide.co/ToS/",
       },
     ],
@@ -136,8 +136,8 @@ export const footerLinks = [
         link: "https://www.Marketide.co/partners/",
       },
       {
-        name: "Suggestions",
-        link: "https://www.Marketide.co/suggestions/",
+        name: "Audit",
+        link: "https://www.Marketide.co/audit/",
       },
       {
         name: "Blog",
