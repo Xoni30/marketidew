@@ -2,20 +2,20 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 
 export const navLinks = [
   {
-    id: "home",
+    id: "https://marketide.co/",
     title: "Home",
   },
   {
-    id: "features",
+    id: "https://marketide.co/#features",
     title: "Services",
   },
   {
-    id: "product",
+    id: "https://marketide.co/#about",
     title: "About",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "https://marketide.co/contactus.html",
+    title: "Contact",
   },
 ];
 
